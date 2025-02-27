@@ -1,4 +1,4 @@
-clc; clear; close all; format compact; format shortG;
+clc; clear; close all; format compact; format longG;
 
 %% Load constants
 C = HCinputsTemplatev2;
